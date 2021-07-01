@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="locations" type="id" />
+    <item name="tvVariacao" type="id" />
+    <item name="stocks" type="id" />
+    <item name="txtPoints" type="id" />
+    <item name="txtLocation" type="id" />
+    <item name="txtStocks" type="id" />
+    <item name="txtCity" type="id" />
+    <item name="ListaCurrencies" type="id" />
+    <item name="ListaStocks" type="id" />
+    <item name="txtStock" type="id" />
+    <item name="txtPoint" type="id" />
+</resources>
